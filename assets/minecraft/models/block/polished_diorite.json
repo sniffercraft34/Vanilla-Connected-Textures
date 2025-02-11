@@ -1,0 +1,7 @@
+{
+    "parent": "block/cnt",
+    "textures": {
+        "connected": "block/polished_diorite_connected",
+        "block": "block/polished_diorite"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cnt",
+    "textures": {
+        "connected": "block/lapis_block_connected",
+        "block": "block/lapis_block"
+    }
+}

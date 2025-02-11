@@ -1,0 +1,7 @@
+{
+    "parent": "block/cnt",
+    "textures": {
+        "connected": "block/iron_block_connected",
+        "block": "block/iron_block"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cnt",
+    "textures": {
+        "connected": "block/gold_block_connected",
+        "block": "block/gold_block"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cnt",
+    "textures": {
+        "connected": "block/redstone_block_connected",
+        "block": "block/redstone_block"
+    }
+}

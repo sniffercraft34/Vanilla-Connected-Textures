@@ -1,0 +1,7 @@
+{
+    "parent": "block/cnt",
+    "textures": {
+        "connected": "block/polished_andesite_connected",
+        "block": "block/polished_andesite"
+    }
+}
